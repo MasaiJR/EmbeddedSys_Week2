@@ -75,12 +75,13 @@ i.e creating user test data <br>
 ## Tokens
 The smallest bit of code that makes sense to a compiler
 
-Keyword| Special meaning to the compiler | int double for| <br>
-Identifiers| Names given to foreign things| cout std | <br>
-Literals| | string literal | <br>
-Operators| Logical and arithmetic | | <br>
-Punctuation | | | <br>
-White space | | | <br>
+| Keyword | Special meaning to the compiler | int double for | <br>
+| ------ | ------------------------------- | ------------ | <br>
+| Identifiers | Names given to foreign things | cout std | <br>
+| Literals |  | string literal | <br>
+| Operators | Logical and arithmetic |  | <br>
+| Punctuation |  |  | <br>
+| White space |  |  | <br>
 
 Escape sequence -> Allows us to escape the normal execution of code <br>
 
